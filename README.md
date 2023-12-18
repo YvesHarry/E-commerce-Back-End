@@ -58,7 +58,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Walkthrough Video Link:
 
-[WalkthroughVideo](https://drive.google.com/file/d/1s6I_3q1trUp2B_S1ogGgDMwjblQiJoBt/view)
+[WalkthroughVideo](https://drive.google.com/file/d/1MmqqzfvojSbQAapkqvdNy3t6lNqB2RQu/view)
 
 ## Installation Process
 1. Clone the Repository from GitHub 
