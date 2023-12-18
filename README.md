@@ -12,6 +12,7 @@ The back-end database has been purposed towards e-commerce websites using Expres
 - [Usage Information](#Usage-Information)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Usage Instruction](#usage-instructions)
+- [WalkthroughVideo](#walkthrough-video-link)
 - [Installation Process](#Installation-Process)
 - [Credits](#Credits)
 - [License](#License)
@@ -55,9 +56,9 @@ THEN I am able to successfully create, update, and delete data in my database
 5. Use Insomnia to test http://localhost:3001 with the following route end points API GET, POST, PUT, and DELETE routes for categories, products, and tags, ensuring successful creation, updating, and deletion of data in the database.
 
 
-## Deployed Application Link:
+## Walkthrough Video Link:
 
-N/A
+[WalkthroughVideo](https://drive.google.com/file/d/1s6I_3q1trUp2B_S1ogGgDMwjblQiJoBt/view)
 
 ## Installation Process
 1. Clone the Repository from GitHub 
